@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-9pwdp+o#f(il*)*&66ofmf!@kfq2on^uxx6gj*mt59qh6lyis9
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [https://banja23.github.io/newsite/]
 
 
 # Application definition
